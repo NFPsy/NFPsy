@@ -9,9 +9,13 @@
 많은 게임 경험을 살려 유저들이 하고 싶어 하는 게임을 기획하고 싶은 사람입니다.
 
 게임 플레이 타임
+
 서든어택 10년(구계급 : 부원수)
+
 배틀그라운드 500시간
+
 FC온라인 2년(레벨 : 965)
+
 피파온라인 시리즈 2, 3, 4 (5년)
 
 [![GitHub](https://img.shields.io/badge/GitHub-NFPsy-181717?style=flat-square&logo=github)](https://github.com/NFPsy)
