@@ -10,13 +10,13 @@
 
 게임 플레이 타임
 
-서든어택 10년(구계급 : 부원수)
+서든어택 10년(구계급 : 부원수, 랭크전 : 레전드)
 
 배틀그라운드 500시간
 
-FC온라인 2년(레벨 : 965, 리뉴얼 전 구단가치 50조)
+FC온라인 2년(레벨 : 965, 월드클래스)
 
-피파온라인 시리즈 2, 3, 4 (5년)
+마비노기 모바일(6개월 , 전투력 63000)
 
 [![GitHub](https://img.shields.io/badge/GitHub-NFPsy-181717?style=flat-square&logo=github)](https://github.com/NFPsy)
 [![Velog](https://img.shields.io/badge/Velog-s__yeo-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@s__yeo/posts)
