@@ -10,14 +10,13 @@
 
 게임 플레이 타임
 
-1. 서든어택 10년(구계급 : 부원수, 랭크전 : 레전드)
-레벨업 서든어택 2021 시즌4 챔피언십 토너먼트 #1 3위 (신사)
+1.서든어택 10년(구계급 : 부원수, 랭크전 : 레전드), 레벨업 서든어택 2021 시즌4 챔피언십 토너먼트 #1 3위 (신사)
 
-2. 배틀그라운드 600시간
+2.배틀그라운드 600시간
 
-3. FC온라인 2년(레벨 : 965, 월드클래스)
+3.FC온라인 2년(레벨 : 965, 월드클래스)
 
-4. 마비노기 모바일(6개월, 전투력 63000)
+4.마비노기 모바일(6개월, 전투력 63000)
 
 [![GitHub](https://img.shields.io/badge/GitHub-NFPsy-181717?style=flat-square&logo=github)](https://github.com/NFPsy)
 [![Velog](https://img.shields.io/badge/Velog-s__yeo-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@s__yeo/posts)
