@@ -18,7 +18,7 @@
 
 3.FC온라인 2년(레벨 : 965, 월드클래스)
 
-4.마비노기 모바일(6개월, 전투력 69000)
+4.마비노기 모바일(6개월, 전투력 72488)
 
 [![GitHub](https://img.shields.io/badge/GitHub-NFPsy-181717?style=flat-square&logo=github)](https://github.com/NFPsy)
 [![Velog](https://img.shields.io/badge/Velog-s__yeo-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@s__yeo/posts)
